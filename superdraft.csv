@@ -1,0 +1,90 @@
+draft position,MLS team,Player,Pos.,College,Conference,Academy team,Other team,Signed, Trade
+1,Charlotte FC, Ben Bender,MF,Maryland,Big Ten,Baltimore Armour,FC Baltimore Christos, Charlotte FC, No
+2,FC Cincinnati, Roman Celentano,GK,Indiana,Big Ten,Sockers FC,—, FC Cincinnati, No
+3,FC Dallas, Isaiah Parker,FW,Saint Louis,A-10,FC United,Chicago FC United, FC Dallas, Yes
+4,Houston Dynamo FC, Thorleifur Úlfarsson,FW,Duke,ACC,Breiðablik,—, Houston Dynamo FC, No
+5,Austin FC, Kipp Keller,DF,Saint Louis,A-10,Saint Louis FC,St. Louis Scott Gallagher, Austin FC, No
+6,FC Dallas, Lucas Bartlett,DF,St. John's,Big East,Sporting Blue Valley,Kaw Valley FC, FC Dallas, No
+7,New York Red Bulls, Matt Nocita,DF,Naval Academy,Patriot,Real So Cal,—, New York Red Bulls, Yes
+8,San Jose Earthquakes, Ousseni Bouda,FW,Stanford,Pac-12,Black Rock FC,Black Rock FC, San Jose Earthquakes, No
+9,Inter Miami CF, Ryan Sailor,DF,Washington,Pac-12,Real Colorado,Colorado Rapids U-23, Inter Miami CF, No
+10,Nashville SC, Ahmed Longmire,DF,UCLA,Pac-12,Las Vegas Sports Academy,Seattle Sounders FC U-23, Nashville SC, Yes
+11,Chicago Fire FC, Kendall Burks,DF,Washington,Pac-12,Washington Premier,Seattle Sounders FC U-23, Chicago Fire FC, Yes
+12,Columbus Crew, Patrick Schulte,GK,Saint Louis,A-10,Saint Louis FC,St. Louis Scott Gallagher, Columbus Crew, No
+13,San Jose Earthquakes, Oskar Ågren,DF,Clemson,ACC,LB07,—, San Jose Earthquakes, Yes
+14,FC Cincinnati, Ian Murphy,DF,Duke,ACC,FC Golden State,—, FC Cincinnati, Yes
+15,CF Montréal, Jojea Kwizera,FW,Utah Valley,WAC,Forza West FC,Ogden City SC, CF Montréal, No
+16,Vancouver Whitecaps FC, Simon Becher,FW,Saint Louis,A-10,Oakwood SC,Ocean City Nor'easters, Whitecaps FC 2, No
+17,Minnesota United FC, Tani Oluwaseyi,FW,St. John's,Big East,GPS Academy,Manhattan SC, Minnesota United FC, No
+18,Orlando City SC, Jack Lynn,FW,Notre Dame,ACC,Saint Louis FC,St. Louis Scott Gallagher, Orlando City SC, No
+19,Atlanta United FC, Erik Centeno,FW,Pacific,Big West,Sacramento Republic,—, Atlanta United FC, No
+20,New York Red Bulls, O'Vonte Mullings,FW,Florida Gulf Coast,ASUN,FC Durham,Seattle Sounders FC U-23, New York Red Bulls II, Yes
+21,LA Galaxy, Farai Mutatu,FW,Michigan State,Big Ten,Crew Academy Wolves,Chicago FC United,-, Yes
+22,Sporting Kansas City, Esai Easley,DF,Grand Canyon,WAC,De Anza Force,Portland Timbers U23, Sporting Kansas City II, No
+23,Colorado Rapids, Mohamed Omar,MF,Notre Dame,ACC,Toronto FC,Chicago FC United, HFX Wanderers, No
+24,New England Revolution, Jacob Jackson,GK,Loyola Marymount,WCC,Real Salt Lake,—, New England Revolution, No
+25,Columbus Crew, Philip Quinton,DF,Notre Dame,ACC,FC Portland,Portland Timbers U23, Columbus Crew 2, Yes
+26,Colorado Rapids, Anthony Markanich,DF,NIU,MAC,Chicago Fire FC,Green Bay Voyageurs, Colorado Rapids, Yes
+27,Portland Timbers, Justin Rasmussen,MF,Grand Canyon,WAC,Las Vegas Sports Academy,Portland Timbers U23, Portland Timbers, No
+28,FC Dallas, Tsiki Ntsabeleng,FW,Oregon State,Pac-12,Kaizer Chiefs,Reading United, FC Dallas, Yes
+29,Charlotte FC, Kyle Holcomb,FW,Wake Forest,ACC,Pateadores FC,Orange County SC U23, Charleston Battery, No
+30,FC Cincinnati, Nick Markanich,FW,NIU,MAC,Chicago Fire FC,Green Bay Voyageurs, FC Cincinnati, No
+31,Toronto FC, Luka Gavran,GK,St. John's,Big East,GPS Academy,Manhattan SC, Toronto FC II, No
+32,Houston Dynamo FC, Paulo Lima,MF,Providence College,Big East,Sporting CP,Boston Bolts, Houston Dynamo 2, No
+33,Chicago Fire FC, Charlie Ostrem,DF,Washington,Pac-12,Crossfire Premier,Crossfire Redmond, Chicago Fire FC II, No
+34,New York City FC, Kevin O'Toole,FW,Princeton,Ivy League,New York Red Bulls,New York Red Bulls U-23, New York City FC, Yes
+35,Austin FC, Charlie Asensio,DF,Clemson,ACC,Atlanta United FC,—, Austin FC, No
+36,D.C. United, Sofiane Djeffal,MF,Oregon State,Pac-12,FC Nantes,Portland Timbers U23s, D.C. United, No
+37,Inter Miami CF, Lucas Meek,MF,Washington,Pac-12,Eastside FC,OSA Seattle FC,-, No
+38,Nashville SC, Will Meyer,GK,Akron,MAC,Cleveland Soccer Academy,Derby City Rovers, Nashville SC, Yes
+39,Houston Dynamo FC, Arturo Ordoñez,DF,Pittsburgh,ACC,Gimnàstic,—, Pittsburgh Riverhounds, No
+40,Columbus Crew, Jacob Erlandson,DF,Bowling Green State,MAC,Ohio Galaxies,Flint City Bucks, Columbus Crew 2, No
+41,D.C. United, Alex Nagy,MF,Vermont,America East,New England Revolution,Valeo FC,-, No
+42,LA Galaxy, Callum Johnson,MF,Clemson,ACC,New York Red Bulls,New York Red Bulls U-23, LA Galaxy II, No
+43,Seattle Sounders FC, Achille Robin,DF,Washington,Pac-12,Les Herbiers VF,Chicago FC United, Tacoma Defiance, No
+44,Vancouver Whitecaps FC, Luis Felipe Fernandez-Salvador,MF,Clemson,ACC,Shattuck St. Mary's,—, Whitecaps FC 2, No
+45,Colorado Rapids, Roberto Molina,MF,UC Irvine,Big West,Barça Residency Academy,Las Vegas Lights, Las Vegas Lights, Yes
+46,Orlando City SC, Nathan Dossantos,DF,Marshall,C-USA,Woodbridge Strikers,FC Florida U23, Pittsburgh Riverhounds, No
+47,Atlanta United FC, Tristan Trager,FW,Air Force,WAC,Academy Strikers FC,—, Atlanta United 2, No
+48,Inter Miami CF, Justin Ingram,MF,Loyola (MD),Patriot,Indiana Fire,Flint City Bucks, Indy Eleven, No
+49,Vancouver Whitecaps FC, Giovanni Aguilar,MF,CSUN,Big West,Sacramento Republic,FC Golden State Force, Whitecaps FC 2, Yes
+50,Sporting Kansas City, Brett St. Martin,DF,Maryland,Big Ten,Baltimore Celtic,—, Charleston Battery, No
+51,Colorado Rapids,PASS,—,—,—,—,—,—,-
+52,New England Revolution, Ben Reveno,DF,UCLA,Pac-12,San Jose Earthquakes,—, New England Revolution II, No
+53,Real Salt Lake, Pedro Fonseca,FW,Louisville,ACC,Fluminense,FC Golden State Force, Real Monarchs, No
+54,Inter Miami CF, Tyler Bagley,MF,Cornell,Ivy League,Irvine Strikers,Boston Bolts, Inter Miami II, Yes
+55,Portland Timbers, Julian Bravo,DF,Santa Clara,WCC,FC Golden State,—, Portland Timbers 2, No
+56,New York City FC, Kingsford Adjei,FW,Dayton,A-10,Right To Dream Academy,Des Moines Menace, South Georgia Tormenta, No
+57,Charlotte FC, George Marks,GK,Clemson,ACC,North Carolina FC,North Carolina FC U23, Charlotte FC, No
+58,FC Cincinnati,PASS,—,—,—,—,—,—,-
+59,Toronto FC, Reshaun Walkes,FW,UTRGV,WAC,Toronto FC,Des Moines Menace, Toronto FC II, No
+60,LA Galaxy, Chandler Vaughn,DF,Saint Louis,A-10,D.C. United,Kaw Valley FC, LA Galaxy II, Yes
+61,Austin FC, Michael Knapp,MF,Montclair,NJAC,New York Red Bulls,New York Red Bulls II, New York Red Bulls II, No
+62,FC Dallas, Alec Smir,GK,North Carolina,ACC,NC Fusion,Ocean City Nor'easters, Minnesota United 2, No
+63,Chicago Fire FC, Carlo Ritaccio,DF,Akron,MAC,BW Gottschee,Long Island Rough Riders, Chicago Fire FC II, No
+64,San Jose Earthquakes, John Martin,MF,Clemson,ACC,CESA,Greenville FC,-, No
+65,Inter Miami CF,PASS,—,—,—,—,—,—,-
+66,FC Dallas, Chase Niece,DF,Saint Louis,A-10,St. Louis Scott Gallagher,St. Louis Scott Gallagher, North Texas SC, Yes
+67,CF Montréal, Ivy Brisma,FW,NC State,ACC,Philadelphia Union,Wake FC,-, No
+68,Columbus Crew, Chris Donovan,FW,Drexel,CAA,—,West Chester United, Philadelphia Union 2, No
+69,D.C. United, Skage Simonsen,MF,SMU,American,Brann,Lokomotiv Oslo, Loudoun United, No
+70,LA Galaxy,PASS,—,—,—,—,—,—,-
+71,New York Red Bulls, Giannis Nikopolidis,GK,Georgetown,Big East,Olympiacos,—, New York Red Bulls II, No
+72,Vancouver Whitecaps FC, Théo Collomb,FW,UNC-Greensboro,SoCon,Clermont,—, Whitecaps FC 2, No
+73,New York Red Bulls, Seth Kuhn,MF,Penn State,Big Ten,Philadelphia Union,Reading United,-, Yes
+74,Orlando City SC, Nick Taylor,FW,UCF,American,Dallas Texans,Albuquerque Sol, Orlando City B, No
+75,Atlanta United FC, Daniel Bloyou,FW,Penn State,Big Ten,Philadelphia Union,Philadelphia Lone Star, FC Tucson, No
+76,Seattle Sounders FC, Hal Uderitz,MF,Seattle,WAC,Crossfire Premier,Crossfire Redmond, Tacoma Defiance, No
+77,Nashville SC,PASS,—,—,—,—,—,—,-
+78,Sporting Kansas City,PASS,—,—,—,—,—,—,-
+79,Colorado Rapids,PASS,—,—,—,—,—,—,-
+80,New England Revolution,PASS,—,—,—,—,—,—,-
+81,Real Salt Lake, Jasper Löffelsend,DF,Pittsburgh,ACC,TV Herkenrath 09,—, Real Salt Lake, No
+82,Philadelphia Union,PASS,—,—,—,—,—,—,-
+83,Portland Timbers, Sivert Haugli,DF,Virginia Tech,ACC,Bærum,Des Moines Menace, Portland Timbers 2, No
+84,New York City FC, El Mahdi Youssoufi,FW,St. Francis College,NEC,FUS Rabat,Toledo Villa, New York City FC II, No
+85,Chicago Fire FC, Yanis Leerman,DF,UCF,American,Troyes,—,-, Yes
+86,Vancouver Whitecaps FC, Vitor Dias,MF,Marshall,C-USA,São Paulo,—, St. Louis City SC 2, Yes
+87,FC Dallas, Holland Rula,DF,Wake Forest,ACC,FC Dallas,—,-, Yes
+88,Atlanta United FC, Tola Showunmi,FW,UNH,America East,Cheshunt,New York Shockers,-, Yes
+89,San Jose Earthquakes,PASS,—,—,—,—,—,—,-
